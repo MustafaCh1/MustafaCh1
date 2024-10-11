@@ -60,4 +60,4 @@ Git | AWS | TensorFlow | PyTorch | Pandas | scikit-learn
 
 - **Description:** Created for a NLP module, trains 4 different models to perform sentiment analysis on movie reviews. The trained models can be tested with user input on a choice of models
 - **Technologies Used:** Python, Pandas, nltk, scikit
-- **GitHub Repository:** [NLPSentimentAnalyser Github](https://github.com/MustafaCh1/NLPSentimentAnalyser)
+- **GitHub Repository:** [NLPSentimentAnalyser GitHub](https://github.com/MustafaCh1/NLPSentimentAnalyser)
