@@ -48,16 +48,16 @@ Git | AWS | TensorFlow | PyTorch | Pandas | scikit-learn
 
 - **Description:** Uses pose estimation to count the number of repetitions when performing bicep curls. Also provides functionality such as workout logging and weight tracking
 - **Technologies Used:** React Native, JavaScript, CSS, Firebase (removed at current stage), Tailwind
-- **GitHub Repository:** [github.com/mustafachaudhry/projectname](https://github.com/mustafachaudhry/projectname)
+- **GitHub Repository:** [github.com/mustafachaudhry/projectname](https://github.com/MustafaCh1/ReForm)
 
 ### Scorecards: A Boxing Scorecard App
 
 - **Description:** Allows users to create a fight card and score live fights with the Boxing/MMA scoring system
 - **Technologies Used:** React Native, JavaScript, CSS
-- **GitHub Repository:** [github.com/mustafachaudhry/projectname](https://github.com/mustafachaudhry/projectname)
+- **GitHub Repository:** [github.com/mustafachaudhry/projectname](https://github.com/MustafaCh1/Scorecards)
 
 ### Sentiment Analyser Using Classification Models
 
 - **Description:** Created for a NLP module, trains 4 different models to perform sentiment analysis on movie reviews. The trained models can be tested with user input on a choice of models
 - **Technologies Used:** Python, Pandas, nltk, scikit
-- **GitHub Repository:** [github.com/mustafachaudhry/projectname](https://github.com/mustafachaudhry/projectname)
+- **GitHub Repository:** [github.com/mustafachaudhry/projectname](https://github.com/MustafaCh1/NLPSentimentAnalyser)
