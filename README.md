@@ -16,7 +16,12 @@
 
 ## Summary
 
-Highly driven Computer Science graduate always looking for opportunities to grow and achieve success. Extensive experience in software development including mobile app development and 3D games on Unity. Very strong problem solving skills cultivated through programming challenges and expertise in data structures and algorithms. Versatile skill set and receptive to new skills as required for many modules throughout my degree. Consistently top of the class and often given leadership roles. Constant hunger to continue learning and excel in the field of computer science for which I have endless passion.
+Highly driven Computer Science graduate with a strong focus on data analysis, machine learning, and mobile app
+development. Proven experience in applying advanced algorithms and data-driven techniques to solve complex
+real-world problems, with practical proficiency in Python, machine learning frameworks, and data science libraries.
+Recognised for exceptional problem-solving skills and academic excellence, consistently ranking at the top of the class
+and entrusted with leadership roles. Passionate about continuous learning and eager to contribute to innovative,
+impactful projects in programming, app development, and emerging technologies.
 
 ## Education
 
