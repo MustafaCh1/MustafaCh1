@@ -30,14 +30,14 @@ impactful projects in programming, app development, and emerging technologies.
 **University of Bath, 2021 - 2024**
 
 <div style="display: flex; align-items: center; gap: 10px; justify-content: space-between; marginHorizontal:20; ">
-    <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/292181841_10159830797570049_3396276532068878139_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=ZfTnZzb1JAgQ7kNvgEmC2sq&_nc_ht=scontent-lhr8-1.xx&_nc_gid=AuF7FSYa8G63URWRKXwor4W&oh=00_AYDuj1uS072wSqn-iMnnFHPQP3jLCye6OKMj3Y4guciLZg&oe=670F43F3" alt="University of Bath Logo" style="width: 120px; height: auto;" />
+    <img src="https://noodle.digitalfutures.com/studentuploads/292181841_10159830797570049_3396276532068878139_n.jpg" alt="University of Bath Logo" style="width: 120px; height: auto;" />
 </div>
 
 ## Skills
 
 ### **Languages**
 
-JavaScript | Python | Haskell | C++ | SQL
+JavaScript | Python | SQL
 
 ### **Frameworks**
 
@@ -45,7 +45,7 @@ React | React Native | Node.js
 
 ### **Tools**
 
-Git | AWS | TensorFlow | PyTorch | Pandas | scikit-learn
+Git | GCP | TensorFlow | PyTorch | Pandas | scikit-learn
 
 ## Notable Projects
 
