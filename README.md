@@ -55,11 +55,11 @@ Git | GCP | TensorFlow | PyTorch | Pandas | scikit-learn
 - **Technologies Used:** React Native, JavaScript, CSS, Firebase (removed at current stage), Tailwind
 - **GitHub Repository:** [ReForm GitHub](https://github.com/MustafaCh1/ReForm)
 
-### Scorecards: A Boxing Scorecard App
+### AutoScraper: Using NLP to find your perfect car
 
-- **Description:** Allows users to create a fight card and score live fights with the Boxing/MMA scoring system
-- **Technologies Used:** React Native, JavaScript, CSS
-- **GitHub Repository:** [Scorecards GitHub](https://github.com/MustafaCh1/Scorecards)
+- **Description:** Users communicate with a chatbot system that inquires on their desired car. Using GCP, NLP and Scraping the best matching car adverts are found 
+- **Technologies Used:** Python, Google Cloud Platform, NLTK, Selenium, Streamlit
+- **GitHub Repository:** [AutoScraper GitHub](https://github.com/MustafaCh1/auto-scraper)
 
 ### Sentiment Analyser Using Classification Models
 
