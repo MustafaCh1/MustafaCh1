@@ -1,6 +1,6 @@
 <h1 align="center">Ghulam-e-Mustafa Chaudhry</h1>
 
-<table width="100%">
+<table width="100%" align="center">
     <tr>
     <td style="vertical-align: top;">
         <div style="display: flex; flex-direction: column; gap: 16px;">
