@@ -4,10 +4,10 @@
     <tr>
     <td style="vertical-align: top;">
         <div style="display: flex; flex-direction: column; gap: 16px;">
-            <span><b>Certified Data Analyst</b></span>
-            <span><b>Machine Learning Developer</b></span>
-            <span><b>Mobile App Creator</b></span>
-            <span><b>Problem Solver</b></span>
+            <span><b>Certified Data Analyst</b></span> <br />
+            <span><b>Machine Learning Developer</b></span> <br />
+            <span><b>Mobile App Creator</b></span> <br />
+            <span><b>Problem Solver</b></span> <br />
             <span><b>Continuous Learner</b></span>
         </div>
     </td>     
